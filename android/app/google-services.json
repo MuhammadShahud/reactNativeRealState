@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604489005482",
+    "project_id": "realestateeducation-cab19",
+    "storage_bucket": "realestateeducation-cab19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604489005482:android:daa066a6afe6acdedd53d3",
+        "android_client_info": {
+          "package_name": "com.realestateapp_education_b55125"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604489005482-9794qbiho5v4fjpocq7ii4jsg3dq3jc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCFrxei_L43h2UWbUFUSohYdCApkVSMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604489005482-9794qbiho5v4fjpocq7ii4jsg3dq3jc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
