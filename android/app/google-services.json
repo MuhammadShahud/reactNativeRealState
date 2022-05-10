@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553737272417",
+    "project_id": "motorcycle-dmv-education",
+    "storage_bucket": "motorcycle-dmv-education.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553737272417:android:f5631c8a2bfe853b58fe20",
+        "android_client_info": {
+          "package_name": "com.reactnative.app.motorcycle.dmv.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553737272417-t2d2bp3to1f1iglglh2javnqg3ftmqhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26XCMnXnowN6HzVIZIEfkq2yWe93h-Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553737272417-t2d2bp3to1f1iglglh2javnqg3ftmqhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
